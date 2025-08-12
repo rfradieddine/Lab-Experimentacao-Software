@@ -1,0 +1,13 @@
+# Arquivos de configuração
+config.json
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Outros
+.vscode/
+.idea/

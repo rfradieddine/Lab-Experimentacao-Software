@@ -1,0 +1,35 @@
+RELATÓRIO DE ANÁLISE - REPOSITÓRIOS POPULARES DO GITHUB
+============================================================
+
+Data da análise: 2025-08-11 23:24:06
+Total de repositórios analisados: 100
+
+RESUMO DAS RESEARCH QUESTIONS:
+----------------------------------------
+
+RQ01 - Maturidade:
+  Idade média: 8.48 anos
+  Repositórios com +5 anos: 83 (83.0%)
+
+RQ02 - Contribuições:
+  Média de PRs aceitos: 6734.19
+  Mediana de PRs: 1792.50
+
+RQ03 - Releases:
+  Média de releases: 141.08
+  Repos com releases: 62 (62.0%)
+
+RQ04 - Atualizações:
+  Média dias desde update: 0.00
+  Atualizados em 30 dias: 100 (100.0%)
+
+RQ05 - Top 5 Linguagens:
+  1. TypeScript: 18 repos (18.0%)
+  2. Python: 17 repos (17.0%)
+  3. Unknown: 14 repos (14.0%)
+  4. JavaScript: 13 repos (13.0%)
+  5. C++: 5 repos (5.0%)
+
+RQ06 - Issues Fechadas:
+  Média de fechamento: 84.79%
+  Repos com +80% fechadas: 66 (73.3%)
