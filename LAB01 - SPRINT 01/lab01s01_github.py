@@ -520,7 +520,7 @@ if __name__ == "__main__":
     analyzer = GitHubRepositoryAnalyzer(GITHUB_TOKEN)
     
     try:
-        results = analyzer.run_complete_analysis(100)  # analisa 100 repos
+        results = analyzer.run_complete_analysis(1000)  # analisa 100 repos
         
         if results:
             print(f"\n Sucesso")
