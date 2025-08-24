@@ -1,0 +1,101 @@
+name,owner,stars,age_days,merged_prs,total_releases,days_since_update,primary_language,total_issues,closed_issues,closed_issues_ratio,url,description
+freeCodeCamp,freeCodeCamp,425625,3884,25678,0,0,TypeScript,19797,19606,99.03520735464969,https://github.com/freeCodeCamp/freeCodeCamp,"freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+build-your-own-x,codecrafters-io,409479,2652,142,0,0,Markdown,814,594,72.97297297297297,https://github.com/codecrafters-io/build-your-own-x,Master programming by recreating your favorite technologies from scratch.
+awesome,sindresorhus,391105,4050,679,0,0,Unknown,354,340,96.045197740113,https://github.com/sindresorhus/awesome,😎 Awesome lists about all kinds of interesting topics
+free-programming-books,EbookFoundation,364927,4323,6818,0,0,Python,1181,1150,97.37510584250634,https://github.com/EbookFoundation/free-programming-books,:books: Freely available programming books
+public-apis,public-apis,360932,3432,1872,0,0,Python,707,703,99.43422913719944,https://github.com/public-apis/public-apis,A collective list of free APIs
+developer-roadmap,kamranahmedse,333658,3072,3668,1,0,TypeScript,2938,2690,91.55888359428182,https://github.com/kamranahmedse/developer-roadmap,"Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+coding-interview-university,jwasham,324179,3354,415,0,0,Unknown,516,453,87.79069767441861,https://github.com/jwasham/coding-interview-university,A complete computer science study plan to become a software engineer.
+system-design-primer,donnemartin,315646,3089,200,0,0,Python,339,91,26.843657817109147,https://github.com/donnemartin/system-design-primer,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+996.ICU,996icu,273996,2331,1067,0,0,Unknown,0,0,0,https://github.com/996icu/996.ICU,Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+awesome-python,vinta,254716,4064,544,0,0,Python,0,0,0,https://github.com/vinta/awesome-python,"An opinionated list of awesome Python frameworks, libraries, software and resources."
+awesome-selfhosted,awesome-selfhosted,241528,3725,2394,1,0,Unknown,806,806,100.0,https://github.com/awesome-selfhosted/awesome-selfhosted,A list of Free Software network services and web applications which can be hosted on your own servers
+project-based-learning,practical-tutorials,239123,3044,182,0,0,Unknown,208,79,37.980769230769226,https://github.com/practical-tutorials/project-based-learning,Curated list of project-based tutorials
+react,facebook,238062,4463,12082,105,0,JavaScript,13981,13180,94.27079608039483,https://github.com/facebook/react,The library for web and native user interfaces.
+vue,vuejs,209253,4397,1133,249,0,TypeScript,10028,9673,96.459912245712,https://github.com/vuejs/vue,"This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
+Python,TheAlgorithms,203978,3314,2975,0,0,Python,1585,1511,95.33123028391167,https://github.com/TheAlgorithms/Python,All Algorithms implemented in Python
+linux,torvalds,199543,5091,10,0,0,C,0,0,0,https://github.com/torvalds/linux,Linux kernel source tree
+javascript-algorithms,trekhleb,192982,2698,302,0,0,JavaScript,366,229,62.568306010928964,https://github.com/trekhleb/javascript-algorithms,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+tensorflow,tensorflow,191154,3566,35666,217,0,C++,40714,39825,97.81647590509407,https://github.com/tensorflow/tensorflow,An Open Source Machine Learning Framework for Everyone
+computer-science,ossu,190260,4119,298,0,0,HTML,651,637,97.84946236559139,https://github.com/ossu/computer-science,🎓 Path to a free self-taught education in Computer Science!
+You-Dont-Know-JS,getify,182927,4287,368,0,0,Unknown,944,863,91.41949152542372,https://github.com/getify/You-Dont-Know-JS,A book series (2 published editions) on the JS language.
+the-book-of-secret-knowledge,trimstray,182009,2607,122,0,0,Unknown,0,0,0,https://github.com/trimstray/the-book-of-secret-knowledge,"A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+CS-Notes,CyC2018,181407,2737,374,0,0,Unknown,571,448,78.45884413309983,https://github.com/CyC2018/CS-Notes,:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+ohmyzsh,ohmyzsh,180631,5828,3370,0,0,Shell,4959,4819,97.17685017140553,https://github.com/ohmyzsh/ohmyzsh,"🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community."
+AutoGPT,Significant-Gravitas,177721,880,3155,66,0,Python,3371,3214,95.34262830020765,https://github.com/Significant-Gravitas/AutoGPT,"AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+vscode,microsoft,175677,3631,35962,175,0,TypeScript,204298,192299,94.12671685479054,https://github.com/microsoft/vscode,Visual Studio Code
+bootstrap,twbs,172828,5128,8967,93,0,MDX,22749,22343,98.21530616730406,https://github.com/twbs/bootstrap,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+flutter,flutter,171816,3812,43657,7,0,Dart,108559,96668,89.04650927145607,https://github.com/flutter/flutter,Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+Python-100-Days,jackfrued,170722,2721,13,0,0,Jupyter Notebook,690,118,17.101449275362317,https://github.com/jackfrued/Python-100-Days,Python - 100天从新手到大师
+gitignore,github,168610,5391,1713,0,0,Unknown,0,0,0,https://github.com/github/gitignore,A collection of useful .gitignore templates
+the-art-of-command-line,jlevy,157765,3737,317,0,0,Unknown,258,136,52.71317829457365,https://github.com/jlevy/the-art-of-command-line,"Master the command line, in one page"
+stable-diffusion-webui,AUTOMATIC1111,155503,1086,1874,27,0,Python,7826,5464,69.81855353948377,https://github.com/AUTOMATIC1111/stable-diffusion-webui,Stable Diffusion web UI
+JavaGuide,Snailclimb,151222,2654,1179,0,0,Java,1103,1031,93.47234814143246,https://github.com/Snailclimb/JavaGuide,「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+ollama,ollama,150037,778,2440,141,0,Go,7898,6175,78.18435046847303,https://github.com/ollama/ollama,"Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models."
+awesome-go,avelino,149743,4055,3454,0,0,Go,685,679,99.12408759124088,https://github.com/avelino/awesome-go,"A curated list of awesome Go frameworks, libraries and software"
+transformers,huggingface,148241,2479,16515,220,0,Python,17755,16671,93.89467755561813,https://github.com/huggingface/transformers,"🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. "
+javascript,airbnb,147264,4667,810,0,0,JavaScript,1363,1266,92.88334556126192,https://github.com/airbnb/javascript,JavaScript Style Guide
+Microsoft-Activation-Scripts,massgravel,144342,2039,6,24,0,Batchfile,715,715,100.0,https://github.com/massgravel/Microsoft-Activation-Scripts,"Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting."
+youtube-dl,ytdl-org,136833,5399,1642,341,0,Python,26765,23122,86.38894078087054,https://github.com/ytdl-org/youtube-dl,Command-line program to download videos from YouTube.com and other video sites
+next.js,vercel,133749,3233,23512,1000,0,JavaScript,23323,20997,90.02701196244051,https://github.com/vercel/next.js,The React Framework
+awesome-chatgpt-prompts,f,132428,981,171,0,0,JavaScript,0,0,0,https://github.com/f/awesome-chatgpt-prompts,This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+go,golang,129365,4011,1,0,0,Go,67830,58667,86.49122807017544,https://github.com/golang/go,The Go programming language
+n8n,n8n-io,129105,2243,10494,376,0,TypeScript,4970,4390,88.32997987927565,https://github.com/n8n-io/n8n,"Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+fucking-algorithm,labuladong,128880,2001,238,1,0,Markdown,916,913,99.67248908296943,https://github.com/labuladong/fucking-algorithm,"刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. "
+tech-interview-handbook,yangshun,128457,3325,481,0,0,TypeScript,115,74,64.34782608695652,https://github.com/yangshun/tech-interview-handbook,💯 Curated coding interview preparation materials for busy software engineers
+scrcpy,Genymobile,126459,2821,113,47,0,C,5607,3159,56.34028892455859,https://github.com/Genymobile/scrcpy,Display and control your Android device
+30-seconds-of-code,Chalarangelo,124887,2813,826,12,0,JavaScript,300,300,100.0,https://github.com/Chalarangelo/30-seconds-of-code,Coding articles to level up your development skills
+HelloGitHub,521xueweihan,124794,3387,16,57,0,Python,2837,2627,92.5978145928798,https://github.com/521xueweihan/HelloGitHub,":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub."
+react-native,facebook,123376,3868,930,409,0,C++,27173,26526,97.6189599970559,https://github.com/facebook/react-native,A framework for building native applications using React
+yt-dlp,yt-dlp,122195,1751,2871,116,0,Python,9704,8094,83.40890354492993,https://github.com/yt-dlp/yt-dlp,A feature-rich command-line audio/video downloader
+PowerToys,microsoft,122092,2295,5601,116,0,C#,34400,27490,79.91279069767442,https://github.com/microsoft/PowerToys,Windows system utilities to maximize productivity
+electron,electron,117857,4505,23209,1000,0,C++,21029,20272,96.40020923486614,https://github.com/electron/electron,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
+kubernetes,kubernetes,116847,4085,62217,751,0,Go,47623,45737,96.03972870251769,https://github.com/kubernetes/kubernetes,Production-Grade Container Scheduling and Management
+hello-algo,krahets,115355,1012,945,9,0,Java,270,258,95.55555555555556,https://github.com/krahets/hello-algo,"《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation"
+free-programming-books-zh_CN,justjavac,114945,4299,282,3,0,Unknown,0,0,0,https://github.com/justjavac/free-programming-books-zh_CN,:books: 免费的计算机编程类中文书籍，欢迎投稿
+langchain,langchain-ai,113389,1030,14427,945,0,Jupyter Notebook,8637,8425,97.54544401991431,https://github.com/langchain-ai/langchain,🦜🔗 Build context-aware reasoning applications
+node,nodejs,112681,3912,10696,454,0,JavaScript,19424,17703,91.1398270181219,https://github.com/nodejs/node,Node.js JavaScript runtime ✨🐢🚀✨
+d3,d3,111262,5433,493,194,0,Shell,2228,2220,99.64093357271095,https://github.com/d3/d3,"Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
+dify,langgenius,110646,853,6914,140,0,TypeScript,12345,11650,94.37019036046983,https://github.com/langgenius/dify,Production-ready platform for agentic workflow development.
+free-for-dev,ripienaar,109814,3800,2752,0,0,HTML,0,0,0,https://github.com/ripienaar/free-for-dev,"A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+three.js,mrdoob,108063,5621,14351,171,0,JavaScript,13149,12711,96.66894820898928,https://github.com/mrdoob/three.js,JavaScript 3D Library.
+axios,axios,107388,4012,1000,97,0,JavaScript,4842,4427,91.42916150351095,https://github.com/axios/axios,Promise based HTTP client for the browser and node.js
+open-webui,open-webui,106410,676,2470,119,0,JavaScript,6070,5859,96.52388797364085,https://github.com/open-webui/open-webui,"User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+rust,rust-lang,105723,5536,65398,140,0,Rust,59116,48461,81.97611475742607,https://github.com/rust-lang/rust,Empowering everyone to build reliable and efficient software.
+TypeScript,microsoft,105591,4074,14672,212,0,TypeScript,42421,36841,86.84613752622522,https://github.com/microsoft/TypeScript,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+excalidraw,excalidraw,105278,2049,3693,14,0,TypeScript,4227,2399,56.754199195647026,https://github.com/excalidraw/excalidraw,Virtual whiteboard for sketching hand-drawn like diagrams
+nodebestpractices,goldbergyoni,103912,2888,765,0,0,Dockerfile,328,285,86.89024390243902,https://github.com/goldbergyoni/nodebestpractices,:white_check_mark:  The Node.js best practices list (July 2024)
+deno,denoland,103847,2646,13295,340,0,Rust,13133,10859,82.68483971674408,https://github.com/denoland/deno,A modern runtime for JavaScript and TypeScript.
+create-react-app,facebook,103420,3313,1949,83,0,JavaScript,8400,6567,78.17857142857143,https://github.com/facebook/create-react-app,Set up a modern web app by running one command.
+GitHub-Chinese-Top-Charts,GrowingGit,101167,2168,0,0,0,Java,340,161,47.35294117647059,https://github.com/GrowingGit/GitHub-Chinese-Top-Charts,:cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+godot,godotengine,99834,4238,38644,61,0,C++,57975,45929,79.22207848210435,https://github.com/godotengine/godot,Godot Engine – Multi-platform 2D and 3D game engine
+terminal,microsoft,99176,2923,4179,136,0,C++,13450,11849,88.09665427509293,https://github.com/microsoft/terminal,"The new Windows Terminal and the original Windows console host, all in the same place!"
+langflow,langflow-ai,99148,916,4582,261,0,Python,2665,2233,83.78986866791745,https://github.com/langflow-ai/langflow,Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+DeepSeek-V3,deepseek-ai,98602,229,21,1,0,Python,582,554,95.1890034364261,https://github.com/deepseek-ai/DeepSeek-V3,
+angular,angular,98460,3981,3869,465,0,TypeScript,29447,27985,95.0351478928244,https://github.com/angular/angular,Deliver web apps with confidence 🚀
+frp,fatedier,97308,3522,682,106,0,Go,3890,3832,98.50899742930591,https://github.com/fatedier/frp,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+papers-we-love,papers-we-love,96974,4258,437,0,0,Shell,246,245,99.59349593495935,https://github.com/papers-we-love/papers-we-love,Papers from the computer science community to read and discuss.
+material-ui,mui,96354,4012,20755,547,0,TypeScript,20157,18541,91.98293396834846,https://github.com/mui/material-ui,Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
+iptv,iptv-org,96185,2463,6663,0,0,TypeScript,14642,14192,96.92664936484087,https://github.com/iptv-org/iptv,Collection of publicly available IPTV channels from all over the world
+Awesome-Hacking,Hack-with-Github,96150,3422,34,0,0,Unknown,0,0,0,https://github.com/Hack-with-Github/Awesome-Hacking,"A collection of various awesome lists for hackers, pentesters and security researchers"
+ant-design,ant-design,95628,3763,15739,713,0,TypeScript,31594,30366,96.11318604798379,https://github.com/ant-design/ant-design,An enterprise-class UI design language and React UI library
+rustdesk,rustdesk,95537,1779,3618,31,0,Rust,3604,3547,98.41842397336293,https://github.com/rustdesk/rustdesk,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
+tauri,tauri-apps,95465,2222,5142,1000,0,Rust,5746,4625,80.49077619213367,https://github.com/tauri-apps/tauri,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
+generative-ai-for-beginners,microsoft,94809,785,376,0,0,Jupyter Notebook,176,165,93.75,https://github.com/microsoft/generative-ai-for-beginners,"21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/"
+thefuck,nvbn,93422,3779,481,17,0,Python,759,472,62.1870882740448,https://github.com/nvbn/thefuck,Magnificent app which corrects your previous console command.
+clean-code-javascript,ryanmcdermott,93342,3182,149,0,0,JavaScript,235,163,69.36170212765957,https://github.com/ryanmcdermott/clean-code-javascript,Clean Code concepts adapted for JavaScript
+ui,shadcn-ui,92817,951,634,52,0,TypeScript,3329,2364,71.01231601081406,https://github.com/shadcn-ui/ui,"A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
+java-design-patterns,iluwatar,92466,4021,1507,0,0,Java,959,830,86.54848800834203,https://github.com/iluwatar/java-design-patterns,Design patterns implemented in Java
+pytorch,pytorch,92312,3286,6190,61,0,Python,53036,37627,70.94614978505166,https://github.com/pytorch/pytorch,Tensors and Dynamic neural networks in Python with strong GPU acceleration
+HowToCook,Anduin2017,92226,1991,586,4,0,Dockerfile,780,346,44.35897435897436,https://github.com/Anduin2017/HowToCook,程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+neovim,neovim,91914,4211,16077,45,0,Vim Script,13092,11446,87.42743660250535,https://github.com/neovim/neovim,Vim-fork focused on extensibility and usability
+puppeteer,puppeteer,91715,3017,5405,555,0,TypeScript,7208,6946,96.36514983351832,https://github.com/puppeteer/puppeteer,JavaScript API for Chrome and Firefox
+Web-Dev-For-Beginners,microsoft,91255,1736,514,0,0,JavaScript,330,242,73.33333333333333,https://github.com/microsoft/Web-Dev-For-Beginners,"24 Lessons, 12 Weeks, Get Started as a Web Developer"
+DeepSeek-R1,deepseek-ai,90854,204,9,1,0,Unknown,627,568,90.59011164274322,https://github.com/deepseek-ai/DeepSeek-R1,
+vue-element-admin,PanJiaChen,89759,3039,311,49,0,Vue,3609,2357,65.30894984760322,https://github.com/PanJiaChen/vue-element-admin,:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+tailwindcss,tailwindlabs,89559,2867,3063,289,0,TypeScript,4528,4450,98.2773851590106,https://github.com/tailwindlabs/tailwindcss,A utility-first CSS framework for rapid UI development.
+fastapi,fastapi,88287,2439,2732,208,0,Python,3466,3417,98.5862665897288,https://github.com/fastapi/fastapi,"FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+every-programmer-should-know,mtdvio,87781,2910,99,0,0,Unknown,52,23,44.230769230769226,https://github.com/mtdvio/every-programmer-should-know,A collection of (mostly) technical things every software developer should know about
+storybook,storybookjs,87495,3434,11467,1000,0,TypeScript,13658,11605,84.9685166202958,https://github.com/storybookjs/storybook,"Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
+supabase,supabase,87004,2131,12854,22,0,TypeScript,4636,4390,94.6937014667817,https://github.com/supabase/supabase,"The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+whisper,openai,86501,1061,119,13,0,Python,0,0,0,https://github.com/openai/whisper,Robust Speech Recognition via Large-Scale Weak Supervision
