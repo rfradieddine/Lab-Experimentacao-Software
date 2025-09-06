@@ -2,6 +2,27 @@
 
 ---
 
+## Introdução
+
+Este repositório apresenta a análise detalhada dos dados coletados durante o **LAB01**, com foco na validação das hipóteses formuladas na Sprint 2. O objetivo principal é examinar as características dos repositórios populares no GitHub através de **sete questões de pesquisa (RQ01 a RQ07)**, investigando aspectos como:
+
+- **Maturidade dos sistemas**
+- **Contribuições externas** 
+- **Frequência de releases**
+- **Padrões de atualização**
+- **Linguagens predominantes**
+- **Gestão de issues**
+- **Comparações entre linguagens**
+
+---
+
+## Metodologia
+
+A metodologia empregada baseia-se na **análise visual de gráficos** gerados a partir dos dados coletados, permitindo identificar padrões, tendências e correlações entre popularidade e diversos indicadores de qualidade e atividade dos projetos. Cada questão de pesquisa foi acompanhada de uma hipótese específica, que será validada ou refutada com base nas evidências encontradas nos dados.
+
+---
+
+
 ## Sumário
 - [RQ01 — Maturidade dos sistemas](#rq01--maturidade-dos-sistemas)
 - [RQ02 — Contribuição externa (Pull Requests)](#rq02--contribuição-externa-pull-requests)
@@ -104,4 +125,27 @@
 | RQ05 | Predomínio de JS/TS, Python, Java… | **Confirmada** |
 | RQ06 | Alta taxa de fechamento de issues | **Parcialmente confirmada** |
 | RQ07 | Linguagens mainstream > melhor tração/cadência | **Confirmada (em geral)** |
+
+---
+
+### Principais Pontos Relevantes
+
+**Relação não determinística**: Embora a popularidade esteja correlacionada com alguns indicadores de qualidade e atividade, essa relação não é determinística
+
+**Importância da governança**: Fatores como governança do projeto, práticas de colaboração, documentação e contexto específico do domínio desempenham papéis fundamentais
+
+**Domínio das linguagens mainstream**: Linguagens amplamente adotadas (JavaScript/TypeScript, Python, Java) dominam entre os projetos populares, sugerindo um ciclo de retroalimentação positiva
+
+**Popularidade ≠ Eficiência**: A popularidade não garante automaticamente eficiência na gestão de issues ou frequência de releases
+
+---
+
+## Conclusão
+
+A análise dos dados coletados no **LAB01** revelou padrões interessantes sobre as características dos repositórios populares no GitHub. Das **sete hipóteses** formuladas na Sprint 2:
+
+- **3 foram confirmadas** total ou parcialmente
+- **4 foram parcialmente confirmadas** 
+
+Isso demonstra que a **popularidade de um repositório está associada a múltiplos fatores complexos e interrelacionados**.
 
